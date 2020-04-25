@@ -1,3 +1,3 @@
-#my resume page
+# My resume page
 
-This needs update
+#### Need to be updated
