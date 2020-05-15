@@ -4,6 +4,10 @@ html {
   .fa-1x {
     font-size: 2rem;
 }
+.ctrl-width{
+    max-width: 1350px;
+    margin: auto;
+}
 
 .incr-height{
     height: 100vh;
